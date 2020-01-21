@@ -131,7 +131,8 @@ const I18N = {
   categories: {
     search: 'Search Results',
     recent: 'Frequently Used',
-    people: 'Smileys & People',
+    people: 'People & Body',
+    smileys: 'Smileys & Emotion',
     nature: 'Animals & Nature',
     foods: 'Food & Drink',
     activity: 'Activity',
